@@ -1,6 +1,6 @@
 export const user = {
-  name: "Felipe Santos",
-  email: "felipesantos@dev.com",
+  name: "Isabela Souza",
+  email: "isabelasouza@dev.com",
   phone: "1999999999",
   address: {
     city: "Valinhos",
